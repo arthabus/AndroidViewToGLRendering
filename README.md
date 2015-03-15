@@ -1,7 +1,7 @@
 # Android View to Open GL Rendering
 Demo for rendering android views to OpenGL texture
 
-It uses OpenGL ES 2.0 to render Android's View in real time and gives pretty good performance
+It uses OpenGL ES 2.0 to render Android's View in real time
 
 # How to use
 
