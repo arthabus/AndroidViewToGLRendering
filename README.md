@@ -3,6 +3,8 @@ Demo for rendering android views to OpenGL texture
 
 It uses OpenGL ES 2.0 to render Android's View in real time
 
+![](/screenshot.png)
+
 # How to use
 
 1. Init GLSurfaceView as usual
