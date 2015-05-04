@@ -22,6 +22,8 @@ It uses OpenGL ES 2.0 to render Android's View in real time
 
 # Inspired by
 
+This stackowerflow question: http://stackoverflow.com/questions/12499396/is-it-possible-to-render-an-android-view-to-an-opengl-fbo-or-texture
+
 The research found on this site: http://www.felixjones.co.uk/neo%20website/Android_View/
 
 Also some routine code snippets were used from Lesson 4 of this project: https://github.com/learnopengles/Learn-OpenGLES-Tutorials  
