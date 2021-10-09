@@ -1,11 +1,11 @@
-# Android View to Open GL Rendering
+# Android View to Open GL Rendering:-
 Demo for rendering android views to OpenGL texture
 
 It uses OpenGL ES 2.0 to render Android's View in real time
 
 ![](/screenshot.png)
 
-# How to use
+# How to use:-
 
 1. Init GLSurfaceView as usual
 2. Create a subclass of ViewToGLRenderer and set it to the GLSurfaceView instance
@@ -20,7 +20,7 @@ It uses OpenGL ES 2.0 to render Android's View in real time
 
 
 
-# Inspired by
+# Inspired by:-
 
 This stackowerflow question: http://stackoverflow.com/questions/12499396/is-it-possible-to-render-an-android-view-to-an-opengl-fbo-or-texture
 
@@ -28,6 +28,6 @@ The research found on this site: http://www.felixjones.co.uk/neo%20website/Andro
 
 Also some routine code snippets were used from Lesson 4 of this project: https://github.com/learnopengles/Learn-OpenGLES-Tutorials  
 
-# Feedback
+# Feedback:-
 
 Feel free to leave a comment if rendering is not working as expected on any particular device
